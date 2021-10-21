@@ -40,7 +40,7 @@ namespace basic_database_name
 
         protected void Page_Load(object sender, EventArgs e)
         {
-            //Open's the connection to the database
+            //Opens the connection to the database
             connect.Open();
         }
 
